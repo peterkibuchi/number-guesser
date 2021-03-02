@@ -8,4 +8,4 @@
 
 - If both players are tied, the human player wins.
 
-- Feel free to give it a try [here](https://peterkibuchi.github.io/number-guesser)
+- Feel free to give it a try [here](https://peterkibuchi.com/number-guesser).
