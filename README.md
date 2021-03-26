@@ -41,8 +41,9 @@ Project is: _completed_.
 
 ## Inspiration
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
-- The boilerplate code is provided, and one only has to code the game logic.
+- In this project, most of the boilerplate code is provided, and one only has to code the game logic.
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+- Created by [Codecademy](https://www.codecademy.com/).
+- Improved upon by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
