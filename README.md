@@ -9,7 +9,7 @@
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -39,11 +39,11 @@ Project is: _completed_.
 * There is always room for improvement. Feel free to make suggestions or open pull requests.
 
 
-## Inspiration
+## Acknowledgements
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 - In this project, most of the boilerplate code is provided, and one only has to code the game logic.
 
 
 ## Contact
 - Created by [Codecademy](https://www.codecademy.com/).
-- Improved upon by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+- Improved upon by [Peter Kibuchi](https://www.peterkibuchi.com).
